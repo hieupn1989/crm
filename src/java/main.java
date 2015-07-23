@@ -61,6 +61,8 @@ public class main extends HttpServlet {
         write.print("Chu Thị Thương Hiền");
         write.println("Nguyễn Thị Thanh Nhàn");
         write.println("Phạm ngọc Hiếu");
+        write.println("Lê Thị Diệu Thúy");
+        write.println("Nguyễn Quang Quý");
     }
 
     /**
